@@ -1,0 +1,6 @@
+Profesor = Docente.
+Alumno = Cursante, pasante, estudiante, etc
+Nota = Calificación.
+Aula = Curso, Materia.
+Usuario = Profesor, alumno, etc.
+...
